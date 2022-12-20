@@ -1,6 +1,9 @@
 # pandas_helpers
 Functions to help working with pandas
 
+## Installation
+WIP. If you want to use these function (now there is only 1) as a package, please let me know by opening an issue and I'll put my hands on the keyboard
+
 ## Functions avaiable
 ### pandas_helpers.df_sort_values
 Does the expected behavior when using df.sort_values, but you can use the 'key' argument and works as expected
@@ -13,6 +16,6 @@ Check: https://stackoverflow.com/questions/64345790/sort-a-pandas-dataframe-by-m
 
 
 #### Final notes:
-Problems with any function? Send a PR/Create an issue. And thanks for the report
+Problems with any function? Send a PR/open an issue. And thanks for the report
 
-Do you want to contribute? Send a PR/Create an issue.  And thanks for the contribution :)
+Do you want to contribute? Send a PR/open an issue.  And thanks for the contribution :)
